@@ -23,6 +23,8 @@ public class HW5 {
    
 
     public static void main(String[] args) throws IOException {
+        System.out.println("Вариант 4; РИБО-04-21; Коргуева Олеся");
+       
         Scanner myObj = new Scanner(System.in);
         System.out.println("Enter path: ");
         String dir = myObj.nextLine();
